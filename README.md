@@ -29,7 +29,7 @@ We recommend to contact OpenCGA developers by writing to OpenCB mailing list ope
 * Roberto Alonso (ralonso@cipf.es)
 * Alejandro Aleman (aaleman@cipf.es)
 * Franscisco Salavert (fsalavert@cipf.es)
-
+* Mohammed Abdallah
 ##### Contributing
 OpenCGA is an open-source and collaborative project. We appreciate any help and feeback from users, you can contribute in many different ways such as simple bug reporting and feature request. Dependending on your skills you are more than welcome to develop client tools, new features or even fixing bugs.
 
